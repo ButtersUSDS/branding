@@ -1,7 +1,12 @@
 
-Well Hello! So jazzed you're in the market for some design support. We're here to help!
+Well Hello! So you're in the market for a bit of design support, eh? Design squad is here to help!
 
-In order to give you the snazziest of design support, kindly create an issue in this repo, copy in this we ask you to create opy this template tell us a few things about what you're after:
+In order to give you the snazziest of design services, help us by telling us a bit about what you're after as follows: 
+
+1. Create a new issue in this repo.
+2. Copy the template bellow into the issue.
+3. Fill it out and give us the scoop.
+4. Press 'submit' and we'll follow up shortly!
 
 --
 **Who are you?**
@@ -27,4 +32,4 @@ In order to give you the snazziest of design support, kindly create an issue in 
 
 --
 
-Great, thanks so much! Someone from the design squad will be in touch shortly to help you out!
+Great, thanks so much! Someone from the design squad will be in touch to help you out!
