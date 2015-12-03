@@ -4,7 +4,7 @@ Well Hello! So you're in the market for a bit of design support, eh? Design squa
 In order to give you the snazziest of design services, help us by telling us a bit about what you're after as follows: 
 
 1. Create a new issue in this repo.
-2. Copy the template bellow into the issue.
+2. Copy the template below into the issue.
 3. Fill it out and give us the scoop.
 4. Press 'submit' and we'll follow up shortly!
 
