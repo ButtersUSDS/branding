@@ -1,6 +1,7 @@
-# U.S. Digital Service Branding
+# U.S. Digital Service Brand Materials
 
-This is the branding for the U.S Digital Service.
+Hello and welcome to the home of the U.S. Digital Service visual brand materials. We are often refining and adding new assets -- please enjoy and poke around. If you have questions, please leave us a note [here] (https://github.com/usds/branding/issues)
+
 
 ## License
 
