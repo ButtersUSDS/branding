@@ -1,6 +1,6 @@
 # U.S. Digital Service Brand Materials
 
-Hello and welcome to the home of the U.S. Digital Service visual brand materials. We are often refining and adding new assets -- please enjoy and poke around. If you have questions or requests, please leave us a note [here] (https://github.com/usds/branding/issues).
+Hello and welcome to the home of the U.S. Digital Service visual brand materials. We are often refining and adding new assets -- please enjoy and poke around. The main brand guide pdf is available [here] (https://github.com/usds/usds/blob/master/comms/BRAND_BOOK_FINAL.pdf). If you have questions or requests, please leave us a note [here] (https://github.com/usds/branding/issues).
 
 
 ## License
